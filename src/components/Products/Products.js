@@ -27,7 +27,9 @@ const Products = () => {
                 unit_amount
                 product {
                   id
+                  images
                   name
+                  description
                 }
               }
             }
@@ -44,6 +46,7 @@ const Products = () => {
             products[product.id].prices = []
           }
           products[product.id].prices.push(price)
+          console.log(products)
         }
 
         return (
