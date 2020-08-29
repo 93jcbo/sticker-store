@@ -25,4 +25,4 @@ This is a Gatsby e-commerce example based on https://www.gatsbyjs.org/tutorial/e
 
 ### 💫 Deploy with Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thorsten-stripe/ecommerce-gatsby-tutorial)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/93jcbo/sticker-store)
